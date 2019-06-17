@@ -17,7 +17,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo",
+      "photo_url": "https://cdn2.thecatapi.com/images/2lt.jpg",
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop." 
     },
     { 
@@ -37,7 +37,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo",
+      "photo_url": "https://cdn2.thecatapi.com/images/6tf.jpg",
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -57,7 +57,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo",
+      "photo_url": "https://cdn2.thecatapi.com/images/8k7.jpg",
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -77,7 +77,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/aju.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -97,7 +97,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/b93.png", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -117,7 +117,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/bj7.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -137,7 +137,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/c5d.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -157,7 +157,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/ced.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -177,7 +177,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/cfg.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -197,7 +197,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/ci2.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -217,7 +217,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/dk9.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -237,7 +237,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/egs.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -257,7 +257,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/MTQ5NjUwNQ.jp", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -277,7 +277,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/MTYyODkzNQ.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     },
     { 
@@ -297,7 +297,7 @@
       "weight": 6000, 
       "height": 50, 
       "length": 60, 
-      "photo_url": "photo", 
+      "photo_url": "https://cdn2.thecatapi.com/images/MTY1MTg4MA.jpg", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     }
   ]
