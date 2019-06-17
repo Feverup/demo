@@ -1,5 +1,5 @@
 {
-  "pet": [
+  "pets": [
     { 
       "id": 1, 
       "name": "Fluffy", 
@@ -200,5 +200,5 @@
       "photo_url": "photo", 
       "description": "Bacon ipsum dolor amet ham pork belly cupim rump salami, meatloaf sausage drumstick pork chop."
     }
-  ],
+  ]
 }
