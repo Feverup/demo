@@ -2,7 +2,7 @@
   "pets": [
     { 
       "id": 1, 
-      "name": "Fluffy", 
+      "name": "Jade", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -12,7 +12,7 @@
     },
     { 
       "id": 2, 
-      "name": "Fluffy", 
+      "name": "Stinky", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -22,7 +22,7 @@
     },
     { 
       "id": 3, 
-      "name": "Fluffy", 
+      "name": "Nitro", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -32,7 +32,7 @@
     },
     { 
       "id": 4, 
-      "name": "Fluffy", 
+      "name": "Sabbath", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -42,7 +42,7 @@
     },
     { 
       "id": 5, 
-      "name": "Fluffy", 
+      "name": "Cutie", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -52,7 +52,7 @@
     },
     { 
       "id": 6, 
-      "name": "Fluffy", 
+      "name": "Snap", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -62,7 +62,7 @@
     },
     { 
       "id": 7, 
-      "name": "Fluffy", 
+      "name": "Hennessy", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -72,7 +72,7 @@
     },
     { 
       "id": 8, 
-      "name": "Fluffy", 
+      "name": "Jasper", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -82,7 +82,7 @@
     },
     { 
       "id": 9, 
-      "name": "Fluffy", 
+      "name": "Wizard", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -92,7 +92,7 @@
     },
     { 
       "id": 10, 
-      "name": "Fluffy", 
+      "name": "Oscar", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -102,7 +102,7 @@
     },
     { 
       "id": 11, 
-      "name": "Fluffy", 
+      "name": "Guru", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -112,7 +112,7 @@
     },
     { 
       "id": 12, 
-      "name": "Fluffy", 
+      "name": "Morpheus", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -122,7 +122,7 @@
     },
     { 
       "id": 13, 
-      "name": "Fluffy", 
+      "name": "Heffer", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -132,7 +132,7 @@
     },
     { 
       "id": 14, 
-      "name": "Fluffy", 
+      "name": "Eeyore", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -142,7 +142,7 @@
     },
     { 
       "id": 15, 
-      "name": "Fluffy", 
+      "name": "Dipper", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -152,7 +152,7 @@
     },
     { 
       "id": 16, 
-      "name": "Fluffy", 
+      "name": "Golem", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -162,7 +162,7 @@
     },
     { 
       "id": 17, 
-      "name": "Fluffy", 
+      "name": "Lovely", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -172,7 +172,7 @@
     },
     { 
       "id": 18, 
-      "name": "Fluffy", 
+      "name": "Plasma", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -182,7 +182,7 @@
     },
     { 
       "id": 19, 
-      "name": "Fluffy", 
+      "name": "Victory", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -192,7 +192,7 @@
     },
     { 
       "id": 20, 
-      "name": "Fluffy", 
+      "name": "Chakra", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -202,7 +202,7 @@
     },
     { 
       "id": 21, 
-      "name": "Fluffy", 
+      "name": "Cannabis", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -212,7 +212,7 @@
     },
     { 
       "id": 22, 
-      "name": "Fluffy", 
+      "name": "Namaste", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -222,7 +222,7 @@
     },
     { 
       "id": 23, 
-      "name": "Fluffy", 
+      "name": "Aura", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -232,7 +232,7 @@
     },
     { 
       "id": 24, 
-      "name": "Fluffy", 
+      "name": "Knuckles", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -242,7 +242,7 @@
     },
     { 
       "id": 25, 
-      "name": "Fluffy", 
+      "name": "Bishop", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -252,7 +252,7 @@
     },
     { 
       "id": 26, 
-      "name": "Fluffy", 
+      "name": "Whiskers", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -262,7 +262,7 @@
     },
     { 
       "id": 27, 
-      "name": "Fluffy", 
+      "name": "Anabelle", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -272,7 +272,7 @@
     },
     { 
       "id": 28, 
-      "name": "Fluffy", 
+      "name": "Ursula", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
@@ -282,7 +282,7 @@
     },
     { 
       "id": 29, 
-      "name": "Fluffy", 
+      "name": "Hobbit", 
       "kind": "dog", 
       "weight": 6000, 
       "height": 50, 
@@ -292,7 +292,7 @@
     },
     { 
       "id": 30, 
-      "name": "Fluffy", 
+      "name": "Surge", 
       "kind": "cat", 
       "weight": 6000, 
       "height": 50, 
