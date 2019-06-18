@@ -18,7 +18,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/2lt.jpg",
-      "description": "I shall purr myself to sleep pee in the shoe scratch at fleas" 
+      "description": "I shall purr myself to sleep pee in the shoe scratch at fleas",
+      "number_of_lives": 5
     },
     { 
       "id": 3, 
@@ -38,7 +39,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/6tf.jpg",
-      "description": "Meow until belly rubs"
+      "description": "Meow until belly rubs",
+      "number_of_lives": 6
     },
     { 
       "id": 5, 
@@ -58,7 +60,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/8k7.jpg",
-      "description": "I hide behind curtain when vacuum cleaner is on scratch strangers and poo on owners food but meow"
+      "description": "I hide behind curtain when vacuum cleaner is on scratch strangers and poo on owners food but meow",
+      "number_of_lives": 7
     },
     { 
       "id": 7, 
@@ -78,7 +81,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/aju.jpg", 
-      "description": "Purr for no reason stand in doorway"
+      "description": "Purr for no reason stand in doorway",
+      "number_of_lives": 1
     },
     { 
       "id": 9, 
@@ -98,7 +102,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/b93.png", 
-      "description": "Meow meow mama bite off human's toes."
+      "description": "Meow meow mama bite off human's toes",
+      "number_of_lives": 4
     },
     { 
       "id": 11, 
@@ -118,7 +123,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/bj7.jpg", 
-      "description": "Feed me"
+      "description": "Feed me",
+      "number_of_lives": 5
     },
     { 
       "id": 13, 
@@ -138,7 +144,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/c5d.jpg", 
-      "description": "Gnaw the corn cob refuse to come home when humans are going to bed"
+      "description": "Gnaw the corn cob refuse to come home when humans are going to bed",
+      "number_of_lives": 3
     },
     { 
       "id": 15, 
@@ -158,7 +165,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/ced.jpg", 
-      "description": "Pet my belly"
+      "description": "Pet my belly",
+      "number_of_lives": 2
     },
     { 
       "id": 17, 
@@ -178,7 +186,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/cfg.jpg", 
-      "description": "Furrier and even more furrier."
+      "description": "Furrier and even more furrier",
+      "number_of_lives": 6
     },
     { 
       "id": 19, 
@@ -198,7 +207,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/ci2.jpg", 
-      "description": "Leap into the air in greatest offense!"
+      "description": "Leap into the air in greatest offense!",
+      "number_of_lives": 4
     },
     { 
       "id": 21, 
@@ -218,7 +228,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/dk9.jpg", 
-      "description": "Cough furball lay on arms while you're using the keyboard"
+      "description": "Cough furball lay on arms while you're using the keyboard",
+      "number_of_lives": 5
     },
     { 
       "id": 23, 
@@ -238,7 +249,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/egs.jpg", 
-      "description": "Pretend not to be evil ptracy"
+      "description": "Pretend not to be evil ptracy",
+      "number_of_lives": 2
     },
     { 
       "id": 25, 
@@ -258,7 +270,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/MTQ5NjUwNQ.jp", 
-      "description": "Fall asleep upside-down sit in window and stare oooh, a bird"
+      "description": "Fall asleep upside-down sit in window and stare oooh, a bird",
+      "number_of_lives": 1
     },
     { 
       "id": 27, 
@@ -278,7 +291,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/MTYyODkzNQ.jpg", 
-      "description": "Slap owner's face at 5am"
+      "description": "Slap owner's face at 5am",
+      "number_of_lives": 4
     },
     { 
       "id": 29, 
@@ -298,7 +312,8 @@
       "height": 50, 
       "length": 60, 
       "photo_url": "https://cdn2.thecatapi.com/images/MTY1MTg4MA.jpg", 
-      "description": "Fall over dead (not really but gets sypathy)"
+      "description": "Fall over dead (not really but gets sypathy)",
+      "number_of_lives": 6
     }
   ]
 }
